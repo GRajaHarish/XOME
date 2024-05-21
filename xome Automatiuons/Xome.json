@@ -1,0 +1,437 @@
+{
+   "page":[
+               {
+                 "Comparable":[
+                  {
+                     "filedtype":"Textbox",
+                     "values":[
+                        ["SubMLS","//*[@id='textfield-1251-inputEl']","xpath"]
+                         ]
+                        },
+                        {
+                           "filedtype":"date_fill_javascript",
+                           "values":[
+                               
+                               ["SubListDate_active","//*[@id='datefield-1299-inputEl']","xpath"]
+                               ]
+                         },
+                         {
+                           "filedtype":"select_data",
+                           "values":[
+                              ["Subject_property_type","//*[@id='combobox-1331-inputEl']","xpath"],
+                              ["Substyle","//*[@id='combobox-1363-inputEl']","xpath"]
+                               ]
+                        },
+                        {
+                           "filedtype":"Textbox",
+                           "values":[
+                              ["Substories","//*[@id='numberfield-1371-inputEl']","xpath"],
+                              ["Substories","//*[@id='numberfield-1379-inputEl']","xpath"],
+                              ["SubYBu","//*[@id='numberfield-1387-inputEl']","xpath"],
+                              ["SubLotsq","//*[@id='numberfield-1396-inputEl']","xpath"],
+                              ["SubYBu","//*[@id='numberfield-1432-inputEl']","xpath"]
+                               ]
+                              },
+                        {
+                           "filedtype":"select_data",
+                           "values":[
+                              ["SubBase","//*[@id='combobox-1448-inputEl']","xpath"]
+                                    
+                              ]
+                        },
+                        {
+                           "filedtype":"Textbox",
+                           "values":[
+                              ["SubUnits","//*[@id='numberfield-1525-inputEl']","xpath"],
+                              ["Subject_total_rooms","//*[@id='numberfield-1533-inputEl']","xpath"],
+                              ["SubBed","//*[@id='numberfield-1542-inputEl']","xpath"],
+                              ["SubFBath","//*[@id='numberfield-1544-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                     ["SubView","//*[@id='combobox-1742-inputEl']","xpath"],
+                                     ["SubView","//*[@id='combobox-1782-inputEl']","xpath"]
+                                     ]
+                               },
+                               {
+                                 "filedtype":"Textbox",
+                                 "values":[ 
+                                  ["Rent","//*[@id='mbxautocurrencyfield-1822-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Subject_garage","//*[@id='GarCarType_Subject']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[ 
+                                  ["SubCarporttype","//*[@id='numberfield-1878-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"Textbox_default",
+                                 "values":[
+                                    ["0","//*[@id='numberfield-1886-inputEl']","xpath"]
+                                 ]
+                               },
+                               {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["Fee Simple","//*[@id='combobox-1894-inputEl']","xpath"],
+                                    ["None","//*[@id='textfield-1902-inputEl']","xpath"]
+                                 ]
+                              },                              
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[ 
+                                  ["SubDiv","//*[@id='textfield-1950-inputEl']","xpath"],
+                                  ["SubDiv","//*[@id='textfield-1958-inputEl']","xpath"]
+                                  ]
+                              },
+
+
+
+
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[ 
+                                  ["Comp4_street_address","//*[@id='mbxautocompletefield-1207-inputEl']","xpath"],
+                                  ["Comp4_city","//*[@id='textfield-1215-inputEl']","xpath"],
+                                  ["Comp4_zipcode","//*[@id='mbxautozipfield-1229-inputEl']","xpath"],
+                                  ["Sold1MLS","//*[@id='mbxautocompletefield-1252-inputEl']","xpath"],
+                                  ["Sold1Price","//*[@id='mbxautocurrencyfield-1276-inputEl']","xpath"],
+                                  ["compactiveprice4","//*[@id='mbxautocurrencyfield-1284-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"date_fill_javascript",
+                                 "values":[ 
+                                  ["Comp4_Active_Date","//*[@id='datefield-1300-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Subject_property_type","//*[@id='combobox-1332-inputEl']","xpath"],
+                                    ["Sol1Style","//*[@id='combobox-1364-inputEl']","xpath"],
+                                    ["Sol1Story_eval","//*[@id='numberfield-1372-inputEl']","xpath"],
+                                    ["Sol1Story_eval","//*[@id='numberfield-1380-inputEl']","xpath"]
+                                 ]
+                              },
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[
+                                    ["Sold1Yrbuilt","//*[@id='YearBuilt_SoldComp1']","xpath"],
+                                    ["Sold1sqft","//*[@id='numberfield-1400-inputEl']","xpath"],     
+                                    ["Sold1Gla","//*[@id='numberfield-1433-inputEl']","xpath"]     
+                                    ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Comp4_basement","//*[@id='combobox-1449-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[
+                                    ["SubUnits","//*[@id='numberfield-1526-inputEl']","xpath"],   
+                                    ["Comp4_total_rooms","//*[@id='numberfield-1534-inputEl']","xpath"],
+                                    ["Sold1Bed","//*[@id='numberfield-1546-inputEl']","xpath"],
+                                    ["Sold1Bath","//*[@id='numberfield-1548-inputEl']","xpath"]
+                                    ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Sold1_Prop_Cond","//*[@id='combobox-1727-inputEl']","xpath"],
+                                    ["Comp4_viewtype","//*[@id='combobox-1743-inputEl']","xpath"],                  
+                                    ["Comp4_viewtype","//*[@id='combobox-1767-inputEl']","xpath"],   
+                                    ["Comp4_viewtype","//*[@id='combobox-1783-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["Conventional","//*[@id='combobox-1799-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Sold1Gar","//*[@id='numberfield-1855-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["0","//*[@id='numberfield-1887-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Subject_Feesimple","//*[@id='combobox-1895-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["None","//*[@id='textfield-1903-inputEl']","xpath"]
+                                 ]
+                              },
+
+
+
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[ 
+                                  ["Comp5_street_address","//*[@id='mbxautocompletefield-1208-inputEl']","xpath"],
+                                  ["Comp5_city","//*[@id='textfield-1216-inputEl]","xpath"],
+                                  ["Comp5_zipcode","//*[@id='mbxautozipfield-1233-inputEl']","xpath"],
+                                  ["Sold2MLS","//*[@id='mbxautocompletefield-1253-inputEl']","xpath"],
+                                  ["Sold2Price","//*[@id='mbxautocurrencyfield-1277-inputEl']","xpath"],
+                                  ["compactiveprice5","//*[@id='mbxautocurrencyfield-1285-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"date_fill_javascript",
+                                 "values":[ 
+                                  ["Comp5_Active_Date","//*[@id='datefield-1301-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Subject_property_type","//*[@id='combobox-1333-inputEl']","xpath"],
+                                    ["Sol2Style","//*[@id='combobox-1365-inputEl']","xpath"],
+                                    ["Sol2Story_eval","//*[@id='numberfield-1373-inputEl']","xpath"],
+                                    ["Sol2Story_eval","//*[@id='numberfield-1381-inputEl']","xpath"]
+                                 ]
+                              },
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[
+                                    ["Sold2Yrbuilt","//*[@id='numberfield-1389-inputEl']","xpath"],
+                                    ["Sold2sqft","//*[@id='numberfield-1404-inputEl']","xpath"],     
+                                    ["Sold2Gla","//*[@id='numberfield-1434-inputEl']","xpath"]     
+                                    ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Comp5_basement","//*[@id='combobox-1450-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[
+                                    ["SubUnits","//*[@id='numberfield-1527-inputEl']","xpath"],   
+                                    ["Comp5_total_rooms","//*[@id='numberfield-1535-inputEl']","xpath"],
+                                    ["Sold2Bed","//*[@id='numberfield-1550-inputEl']","xpath"],
+                                    ["Sold2Bath","//*[@id='numberfield-1552-inputEl']","xpath"]
+                                    ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Sold2_Prop_Cond","//*[@id='combobox-1728-inputEl']","xpath"],
+                                    ["Comp5_viewtype","//*[@id='combobox-1744-inputEl']","xpath"],                  
+                                    ["Comp5_viewtype","//*[@id='combobox-1768-inputEl']","xpath"],   
+                                    ["Comp5_viewtype","//*[@id='combobox-1784-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["Conventional","//*[@id='combobox-1800-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Sold2Gar","//*[@id='numberfield-1888-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["0","//*[@id='numberfield-1888-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Subject_Feesimple","//*[@id='combobox-1896-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["None","//*[@id='textfield-1904-inputEl']","xpath"]
+                                 ]
+                              },
+
+
+
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[ 
+                                  ["Comp6_street_address","//*[@id='mbxautocompletefield-1209-inputEl']","xpath"],
+                                  ["Comp6_city","//*[@id='textfield-1217-inputEl']","xpath"],
+                                  ["Comp6_zipcode","//*[@id='mbxautozipfield-1237-inputEl']","xpath"],
+                                  ["Sold3MLS","//*[@id='mbxautocurrencyfield-1278-inputEl']","xpath"],
+                                  ["Sold3Price","//*[@id='mbxautocurrencyfield-1277-inputEl']","xpath"],
+                                  ["compactiveprice6","//*[@id='mbxautocurrencyfield-1286-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"date_fill_javascript",
+                                 "values":[ 
+                                  ["Comp6_Active_Date","//*[@id='datefield-1302-inputEl']","xpath"]
+                                  ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Subject_property_type","//*[@id='combobox-1334-inputEl']","xpath"],
+                                    ["Sol3Style","//*[@id='combobox-1366-inputEl']","xpath"],
+                                    ["Sol3Story_eval","//*[@id='numberfield-1374-inputEl']","xpath"],
+                                    ["Sol3Story_eval","//*[@id='numberfield-1382-inputEl']","xpath"]
+                                 ]
+                              },
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[
+                                    ["Sold3Yrbuilt","//*[@id='numberfield-1390-inputEl']","xpath"],
+                                    ["Sold3sqft","//*[@id='numberfield-1408-inputEl']","xpath"],     
+                                    ["Sold3Gla","//*[@id='numberfield-1435-inputEl']","xpath"]     
+                                    ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Comp6_basement","//*[@id='combobox-1451-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"Textbox",
+                                 "values":[
+                                    ["SubUnits","//*[@id='numberfield-1528-inputEl']","xpath"],   
+                                    ["Comp6_total_rooms","//*[@id='numberfield-1536-inputEl']","xpath"],
+                                    ["Sold3Bed","//*[@id='numberfield-1554-inputEl']","xpath"],
+                                    ["Sold3Bath","//*[@id='numberfield-1556-inputEl']","xpath"]
+                                    ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Sold3_Prop_Cond","//*[@id='combobox-1728-inputEl']","xpath"],
+                                    ["Comp6_viewtype","//*[@id='combobox-1745-inputEl']","xpath"],                  
+                                    ["Comp6_viewtype","//*[@id='combobox-1769-inputEl']","xpath"],   
+                                    ["Comp6_viewtype","//*[@id='combobox-1785-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["Conventional","//*[@id='combobox-1801-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Sold3Gar","//*[@id='numberfield-1889-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["0","//*[@id='numberfield-1889-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_data",
+                                 "values":[
+                                    ["Subject_Feesimple","//*[@id='combobox-1897-inputEl']","xpath"]
+                                     ]
+                              },
+                              {
+                                 "filedtype":"select_default",
+                                 "values":[
+                                    ["None","//*[@id='textfield-1905-inputEl']","xpath"]
+                                 ]
+                              },                              
+                              
+                  {
+                     "filedtype":"Textbox",
+                     "values":[
+                        ["compremarks4","//*[@id='mbxlimitedtextarea-1991-inputEl']","xpath"],
+                        ["compremarks5","//*[@id='mbxlimitedtextarea-1992-inputEl']","xpath"],
+                        ["compremarks6","//*[@id='mbxlimitedtextarea-1993-inputEl']","xpath"],
+                        ["compremarks1","//*[@id='mbxlimitedtextarea-1996-inputEl']","xpath"],
+                        ["compremarks2","//*[@id='mbxlimitedtextarea-1997-inputEl']","xpath"],
+                        ["compremarks3","//*[@id='mbxlimitedtextarea-1998-inputEl']","xpath"]
+                         ]
+                        }
+                    
+                    ]
+      }
+        ]
+        }
+     
+
+           
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
