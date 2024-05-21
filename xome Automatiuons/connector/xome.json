@@ -1,0 +1,218 @@
+{
+   "Subject_info": [
+      {
+         "filedtype": "date_fill_javascript",
+         "values": [
+            [
+               "Inspection_Date",
+               "//*[@id='datefield-1077-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "Textbox", 
+         "values": [
+            [
+               "APN",
+               "//*[@id='textfield-1078-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "Textbox",
+         "values": [
+            [
+               "LegalDesc",
+               "//*[@id='textfield-1080-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "select_data",
+         "values": [
+            [
+               "Subtype:", 
+               "//*[@id='textfield-1081-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "Textbox",
+         "values": [
+            [
+               "SubUnits", 
+               "//*[@id='numberfield-1083-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+
+      {
+         "filedtype": "select_data", 
+         "values": [
+            [
+               "Zoning_Classification",
+               "//*[@id='combobox-1089-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "select_default",
+         "values": [
+            [
+               "Legal",
+               "//*[@id='combobox-1090-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "Textbox",
+         "values": [
+            [
+               "Solar_Panels",
+               "//*[@id='combobox-1091-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "radiobutton_data",
+         "values": [
+            [
+               "SubStatus",
+               "//*[@id='datefield-1096-inputEl']",
+               "xpath",
+               "yes"
+            ],
+            [
+               "SubStatus",
+               "//*[@id='datefield-1097-inputEl']",
+               "xpath",
+               "no"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "Current List Price:",
+               "//*[@id='mbxautocurrencyfield-1099-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "Current Listing Type:",
+               "//*[@id='combobox-1100-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "CDOM:",
+               "//*[@id='numberfield-1101-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "radiobutton_data",
+         "values": [
+            [
+               "PropertySold",
+               "//*[@id='radio-1105-inputEl']",
+               "xpath","yes"
+            ],
+            [
+               "PropertySold",
+               "//*[@id='radio-1106-inputEl']",
+               "xpath","no"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "Original List Date:",
+               "//*[@id='datefield-1107-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "",
+               "//*[@id='mbxautocurrencyfield-1108-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "SubReoSSale",
+               "//*[@id='combobox-1109-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "Original List Days on Market:", 
+               "//*[@id='numberfield-1110-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "SubListDate",
+               "//*[@id='datefield-1111-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "text",
+         "values": [
+            [
+               "SubListPrice",
+               "//*[@id='mbxautocurrencyfield-1112-inputEl']",
+               "xpath"
+            ]
+         ]
+      },
+      {
+         "filedtype": "select_data",
+         "values": [
+            [
+               "SubReoSSale",
+               "//*[@id='combobox-1113-inputEl']",
+               "xpath"
+            ]
+         ]
+      }
+     
+   ]
+}
